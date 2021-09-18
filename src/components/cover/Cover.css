@@ -28,6 +28,14 @@
     font-size: 32px;
 }
 
+.cover-container > a:hover {
+  transform: scale(1.1);
+  transition: 0.2s;
+  background-color: white;
+  color: #2A77C6;
+  border-color: white;
+}
+
 
 /*responsive*/
 @media screen and (max-width: 960px) {
