@@ -15,16 +15,22 @@ const slidesInfo = [
         desc: "VIDEOGAMES STORE"
     },
     {
-        src: "assets/images/MyAnimals.jpg",
-        url: "http://mianimal.darnellarmasweb.com/public/",
-        alt: "My Animals",
-        desc: "MY ANIMALS (CRUD)"
+        src: "assets/images/moviezone.jpg",
+        url: "http://moviezone.darnellarmasweb.com/",
+        alt: "Moviezone",
+        desc: "Moviezone (Blog in Laravel)"
     },
     {
         src: "assets/images/ToDo-list.jpg",
         url: "http://ToDo.darnellarmasweb.com/todoportafolio.mp4",
         alt: "ToDo",
         desc: "TO-DO LIST"
+    },
+    {
+        src: "assets/images/albumtracker.jpg",
+        url: "http://albumtracker.darnellarmasweb.com/",
+        alt: "Albumtracker",
+        desc: "Albumtracker - PHP/MYSQL/JS"
     },
 ];
  
