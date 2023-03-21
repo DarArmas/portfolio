@@ -5,7 +5,7 @@ const info = () => {
     return (
         <div className="info-container">
       <div className="info">
-        <h1>See the codes <a href="https://github.com/DarArmas" style={{color:"gray"}} target="_blank" rel="noreferrer">here</a></h1>
+        <h1>Take a look at my repos <a href="https://github.com/DarArmas" style={{color:"gray"}} target="_blank" rel="noreferrer">here</a></h1>
       </div>
     </div>
     )

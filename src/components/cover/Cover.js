@@ -7,14 +7,14 @@ const Cover = () => {
         <div className = "cover-container">
             <video className = "video" src={coverVideo} autoPlay loop muted />
             <h1>Darnell Armas</h1>
-            <p>Developer | IT Student  | Freelancer</p>
+            <p>Software developer</p>
             <a
-                href="assets/CV.pdf"
+                href="/portfolio/assets/CV.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-primary mt-2"
                 >
-                Download CV
+                Download Resume
             </a>
             
         </div>
