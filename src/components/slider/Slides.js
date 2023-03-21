@@ -4,7 +4,7 @@ import "./Slider.css";
 const slidesInfo = [
     {
         src: "assets/images/Laravellum.jpg",
-        url: "http://laravellum.darnellarmasweb.com/public/",
+        url: "http://laravellum2.darnellarmasweb.com/public/",
         alt: "Laravellum",
         desc: "LARAVELLUM (SOCIAL NETWORK)"
     },
@@ -18,7 +18,7 @@ const slidesInfo = [
         src: "assets/images/moviezone.jpg",
         url: "http://moviezone.darnellarmasweb.com/",
         alt: "Moviezone",
-        desc: "Moviezone (Blog in Laravel)"
+        desc: "Moviezone (Blog in Laravel + Admin panel)"
     },
     {
         src: "assets/images/ToDo-list.jpg",
