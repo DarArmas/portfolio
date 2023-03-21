@@ -9,7 +9,7 @@ const Cover = () => {
             <h1>Darnell Armas</h1>
             <p>Software developer</p>
             <a
-                href="/portfolio/assets/CV.pdf"
+                href="assets/CV.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-primary mt-2"
