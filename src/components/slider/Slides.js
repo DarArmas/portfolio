@@ -3,31 +3,31 @@ import "./Slider.css";
 
 const slidesInfo = [
     {
-        src: "assets/images/Laravellum.jpg",
+        src: "/portfolio/assets/images/Laravellum.jpg",
         url: "http://laravellum2.darnellarmasweb.com/public/",
         alt: "Laravellum",
         desc: "LARAVELLUM (SOCIAL NETWORK)"
     },
     {
-        src: "assets/images/Tienda-videojuegos.jpg",
+        src: "/portfolio/assets/images/Tienda-videojuegos.jpg",
         url: "http://gamer-x.darnellarmasweb.com/",
         alt: "Videogames store",
         desc: "VIDEOGAMES STORE"
     },
     {
-        src: "assets/images/moviezone.jpg",
+        src: "/portfolio/assets/images/moviezone.jpg",
         url: "http://moviezone.darnellarmasweb.com/",
         alt: "Moviezone",
         desc: "Moviezone (Blog in Laravel + Admin panel)"
     },
     {
-        src: "assets/images/ToDo-list.jpg",
+        src: "/portfolio/assets/images/ToDo-list.jpg",
         url: "http://ToDo.darnellarmasweb.com/todoportafolio.mp4",
         alt: "ToDo",
         desc: "TO-DO LIST"
     },
     {
-        src: "assets/images/albumtracker.jpg",
+        src: "/portfolio/assets/images/albumtracker.jpg",
         url: "http://albumtracker.darnellarmasweb.com/",
         alt: "Albumtracker",
         desc: "Albumtracker - PHP/MYSQL/JS"
